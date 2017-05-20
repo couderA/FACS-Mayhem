@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/proof_of_concept.unity
+  isLoaded: 1
+  isActive: 1
